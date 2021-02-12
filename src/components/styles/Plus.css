@@ -1,0 +1,8 @@
+.boton{
+    background-image: url("../../images/add.png");
+    padding: 5%;
+    display:flex;
+    margin-top: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
